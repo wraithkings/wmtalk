@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMTalk", "WMTalk\WMTalk.csproj", "{26CC8C2B-7F6F-4D05-B103-4288D8FF3F25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agsXMPP2008_CF", "agsxmpp\agsXMPP2008_CF.csproj", "{33BAFD81-945E-46CF-A6E1-42CB7B626CDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "talk", "talk\talk.csproj", "{89867D46-7C08-46C7-B345-1EEC5932BE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26CC8C2B-7F6F-4D05-B103-4288D8FF3F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CC8C2B-7F6F-4D05-B103-4288D8FF3F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CC8C2B-7F6F-4D05-B103-4288D8FF3F25}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{26CC8C2B-7F6F-4D05-B103-4288D8FF3F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CC8C2B-7F6F-4D05-B103-4288D8FF3F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26CC8C2B-7F6F-4D05-B103-4288D8FF3F25}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{33BAFD81-945E-46CF-A6E1-42CB7B626CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BAFD81-945E-46CF-A6E1-42CB7B626CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BAFD81-945E-46CF-A6E1-42CB7B626CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BAFD81-945E-46CF-A6E1-42CB7B626CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89867D46-7C08-46C7-B345-1EEC5932BE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89867D46-7C08-46C7-B345-1EEC5932BE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89867D46-7C08-46C7-B345-1EEC5932BE1C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{89867D46-7C08-46C7-B345-1EEC5932BE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89867D46-7C08-46C7-B345-1EEC5932BE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89867D46-7C08-46C7-B345-1EEC5932BE1C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
