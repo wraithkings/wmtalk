@@ -11,10 +11,10 @@
     <AssemblyName>agsXMPP</AssemblyName>
     <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <PlatformFamilyName>PocketPC</PlatformFamilyName>
-    <PlatformID>3C41C503-53EF-4c2a-8DD4-A8217CAD115E</PlatformID>
-    <OSVersion>4.20</OSVersion>
+    <PlatformID>b2c48bd2-963d-4549-9169-1fa021dce484</PlatformID>
+    <OSVersion>5.02</OSVersion>
     <DeployDirSuffix>agsXMPP_PPC_20</DeployDirSuffix>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FormFactorID>
     </FormFactorID>
     <SignAssembly>true</SignAssembly>
@@ -24,7 +24,7 @@
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <OldToolsVersion>2.0</OldToolsVersion>
-    <NativePlatformName>Pocket PC 2003</NativePlatformName>
+    <NativePlatformName>Windows Mobile 6 Professional SDK</NativePlatformName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
